@@ -8,7 +8,7 @@
 Building practical cloud solutions, automating infrastructure,
 and sharing my journey in technology.
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/olamide-abolaji-a92355236/)) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](YOUR_EMAIL)
+[LinkedIn]([YOUR_LINKEDIN_URL]) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](YOUR_EMAIL)
 
 </div>
 
@@ -52,9 +52,9 @@ reliable, scalable, and secure technology solutions.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olamide-abolaji&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olamide-abolaji&layout=compact&theme=tokyonight)
 
 ---
 
