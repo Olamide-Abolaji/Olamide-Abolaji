@@ -16,22 +16,22 @@
 
 ---
 
-## 🧑🏽‍💻 About Me
+## About Me
 
 I'm a cloud engineering professional passionate about designing, deploying, and managing reliable cloud infrastructure.
 
 My focus is on using AWS to build scalable solutions, improve infrastructure reliability, automate repetitive tasks, and apply cloud security best practices.
 
-- ☁️ Working with AWS cloud services and architecture
-- 🏗️ Building highly available and scalable infrastructure
-- ⚙️ Exploring infrastructure automation and Infrastructure as Code
-- 🔐 Learning and applying cloud security best practices
-- 🐧 Working with Linux, networking, and cloud operations
-- 🚀 Building practical projects that demonstrate real-world cloud engineering skills
+- Working with AWS cloud services and architecture
+- Building highly available and scalable infrastructure
+- Exploring infrastructure automation and Infrastructure as Code
+- Learning and applying cloud security best practices
+- Working with Linux, networking, and cloud operations
+- Building practical projects that demonstrate real-world cloud engineering skills
 
 I believe the best way to learn cloud engineering is to build, experiment, document, and continuously improve.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I believe the best way to learn cloud engineering is to build, experiment, docum
 - Monitoring, reliability, and security
 - Linux administration and scripting
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. AWS Highly Available Web Application
 
@@ -79,14 +79,18 @@ Check back as I document new builds, architecture decisions, challenges, and les
 
 [Explore my repositories →](https://github.com/Olamide-Abolaji?tab=repositories)
 
-## 🎓 Certifications & Learning
+## Certifications & Learning
 
-- **AWS Certified Cloud Practitioner** — Amazon Web Services
-- **AWS re/Start** — Completed cloud training program
+- AWS Authorized Instructor (AAI)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- AWS Certified Developer – Associate
+- AWS Certified DevOps Engineering 
 
 I'm continuing to deepen my practical understanding of AWS architecture, cloud operations, and automation through hands-on projects and ongoing learning.
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -102,7 +106,7 @@ I'm continuing to deepen my practical understanding of AWS architecture, cloud o
 
 </div>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with cloud engineers, collaborating on practical projects, and learning from the wider technology community.
 
