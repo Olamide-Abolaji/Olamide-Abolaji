@@ -3,12 +3,12 @@
 
 # 👋 Hi, I'm Olamide Abolaji
 
-### ☁️ Cloud Engineer | AWS | Infrastructure & Automation
+### ☁️ Cloud DevOps Engineer | AWS | Infrastructure & Automation
 
 Building practical cloud solutions, automating infrastructure,
 and sharing my journey in technology.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](YOUR_EMAIL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/olamide-abolaji-a92355236/)) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](YOUR_EMAIL)
 
 </div>
 
