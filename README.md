@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="./assets/olamide-cloud-banner.png" alt="Olamide Abolaji — Cloud Engineer" width="100%" />
-
 # Hi, I'm Olamide Abolaji 👋
 
 ### ☁️ Cloud Engineer | AWS | Infrastructure & Automation
@@ -71,7 +69,7 @@ A practical cloud architecture project focused on deploying a resilient web appl
 
 **What this project demonstrates:** cloud networking, load balancing, scalability, DNS configuration, and secure application delivery.
 
-[View the repository](https://github.com/olamideabolaji/aws-highly-available-web-app)
+[View the repository](https://github.com/Olamide-Abolaji/aws-highly-available-web-app)
 
 ### 2. More Cloud Projects
 
@@ -79,7 +77,7 @@ I'm continually expanding my portfolio with hands-on cloud engineering projects 
 
 Check back as I document new builds, architecture decisions, challenges, and lessons learned.
 
-[Explore my repositories →](https://github.com/olamideabolaji?tab=repositories)
+[Explore my repositories →](https://github.com/Olamide-Abolaji?tab=repositories)
 
 ## 🎓 Certifications & Learning
 
@@ -92,15 +90,15 @@ I'm continuing to deepen my practical understanding of AWS architecture, cloud o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=olamideabolaji&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=olamide-abolaji&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamideabolaji&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamide-abolaji&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=olamideabolaji&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=olamide-abolaji&theme=tokyonight&hide_border=true)
 
 </div>
 
