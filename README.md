@@ -47,8 +47,12 @@ reliable, scalable, and secure technology solutions.
 
 ## 📜 Certifications
 
-- Add your AWS certifications here
-- Add other relevant certifications here
+- AWS Authorized Instructor (AAI)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner
+- AWS Certified Developer – Associate
+- AWS Certified DevOps Engineering 
 
 ## 📊 GitHub Statistics
 
